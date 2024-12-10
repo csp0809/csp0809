@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @csp0809 (Chaitanya S Patil)
-- 👀 I’m interested in Full Stack Java
-- 🌱 I’m currently learning Core java
+- 👀 I’m interested in Full Stack Java Development
+- 📚 Topics completed core Java, MySQL
+- 🌱 I’m currently learning Advance Java and Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
