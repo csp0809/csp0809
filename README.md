@@ -3,9 +3,8 @@
 - 📚 Topics completed core Java, MySQL
 - 🌱 I’m currently learning Advance Java and Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : chaitanyapatil1059@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 csp0809/csp0809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
