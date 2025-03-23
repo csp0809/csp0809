@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @csp0809 (Chaitanya S Patil)
 - 👀 Pursuing certificate in Full Stack Java Development
-- 📚 Topics completed Core Java, MySQL, HTML, CSS, JavaScript, Advance Java, JDBC, JSP, Bootstrap
+- 📚 Topics completed Core Java, MySQL, HTML, CSS, JavaScript, Advance Java, JDBC, JSP, Bootstrap, Angular
 - 🌱 I’m currently learning  and Web Development
 - 📫 How to reach me : chaitanyapatil1059@gmail.com ;
 - 📫 LinkedIn: www.linkedin.com/in/chaitanya-sandip-patil-128204173
